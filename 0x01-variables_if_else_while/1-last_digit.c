@@ -1,8 +1,10 @@
-#include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 /**
- * main - assign random number each time excecuted
+ * main - prints the last digit of a radom generated number
+ * whether it is greater than 5 ,less than 6 or 0
+ *
  * Return: always 0 (success)
  *
  */
